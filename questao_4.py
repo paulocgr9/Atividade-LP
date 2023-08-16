@@ -12,7 +12,7 @@ def questao_4():
 
     print(n_comon)
     print(n_indice_comon)
-    print(array1D_5[n_not_in])
+    print(array1D_5[~n_not_in])
 
 questao_4()
     
